@@ -30,12 +30,13 @@ I'm passionate about software developing👨‍💻 and a fresher excited to bui
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/new-badge/Pull%20Expert.png" width="106px" height="106px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/new-badge/Git%20Explorer.png" width="106px" height="106px" />
+
+</a>
   <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" width="105px" height="105px" />
   <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" width="105px" height="105px" />
   <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-0-0-0-0.webp" width="105px" height="105px" />
   <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-0-0-0-0.webp" width="105px" height="105px" />
   <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-0-0-0-0.webp" width="105px" height="105px" />
-</a>
 </div>
 
 
