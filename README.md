@@ -13,6 +13,7 @@ I'm passionate about software developing👨‍💻 and a fresher excited to bui
 ![vs-code-techstack](https://github.com/user-attachments/assets/c3228e87-8e04-464c-907b-e04ee02a77ff)<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="113" height="20" role="img" aria-label="Visual Studio Code"><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="113" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="0" height="20" fill="#25aef4"/><rect x="0" width="113" height="20" fill="#25aef4"/><rect width="113" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="565" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="1030"></text><text x="565" y="140" transform="scale(.1)" fill="#fff" textLength="1030"></text></g></svg>
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 ### 📊 Stats and Streak
