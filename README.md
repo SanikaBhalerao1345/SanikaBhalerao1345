@@ -15,8 +15,6 @@ I'm passionate about software developing👨‍💻 and a fresher excited to bui
 ### 📊 Stats and Streak
 ![Sanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanikaBhalerao1345&show_icons=true&theme=radical) ![Sanika's GitHub Streak](https://streak-stats.demolab.com/?user=SanikaBhalerao1345&theme=radical)
 
-### 📈Contribution Graph
-![Sanika's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SanikaBhalerao1345&theme=github)
 
 ## Badges Earned 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
